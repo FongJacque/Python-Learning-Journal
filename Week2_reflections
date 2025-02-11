@@ -1,0 +1,22 @@
+Topics covered between February 3 through 9
+======
+1. Reviewed File Input/Ouput
+2. Call stack functionality and operating procedure
+3. Iterative vs Recursive functions
+4. Types of recursion, such as direct recursion, head recursion, tail recursion, tree recursion, and mutual recursion
+
+Valuable takeaways
+======
+* Call stack operating order, (L)ast (I)n (F)irst (O)ut
+* Iterative functions benefit from being more transparent to read, having constant time per iteration, good for simple loops, and does not take up call stack memory
+* Recursive functions benefit from having cleaner code, avoids complex indexing, and suitable for breaking down larger problems into smaller subproblems.
+* Direct recursion calls itself, repeating into the call stack at a constant rate
+* Head recursion recurses first before any work is done
+* Tail recursion recurses after optimizing
+* Tree recursion makes multiple recursive calls, resulting in multiple branching function calls simultaneously
+* Mutual recursion loops between each other, until forcibly exitted out of the loop (efficient for problems that alternate between states, such as checking between multiple branching pathways)
+
+Future plans
+======
+1. Due to my exposure with iterative functions, I need to better recognize when recursive functionality is more efficient.
+2. Call Stack order can be daunting, but like the rest of coding, slwo down and visualize if need be.
