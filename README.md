@@ -14,3 +14,7 @@ I wish to further expand my knowledge of Python, as it is beneficial to my devel
 My First Python Program
 ======
 print("Hello, World!")
+
+Programs produced during the semester
+======
+All material created each week will be separated to different branches.
